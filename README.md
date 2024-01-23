@@ -4,7 +4,7 @@ I have added the requirements below.
 
 To run the application 
 
-Cd into the backend folder and in thhe terminal run npm start 
+Cd into the backend folder and in the terminal run nodemon server.js
 then open a second terminal and cd to giweek3 and run npm start 
 
 This will begin the application. Enjoy.
